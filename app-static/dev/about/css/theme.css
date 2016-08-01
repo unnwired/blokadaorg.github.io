@@ -1,0 +1,60 @@
+/*
+ * Hyde theme
+ */
+.theme-base-theme1 p {
+  text-align: justify;
+}
+
+.theme-base-theme1 .sidebar {
+  background-color: #f1f1f1;
+  border-left: 1px #E4E4E4 solid;
+  color: #717171;
+  padding: 1rem 1rem;
+}
+.theme-base-theme1 .content a,
+.theme-base-theme1 .related-posts li a:hover,
+.theme-base-theme1 .sidebar a {
+  color: #00CBDD;
+  padding: 1px 4px;
+  border: 1px solid #CEF9F7 !important;
+  border-radius: 4px;
+  background: #F4F8F8 !important;
+}
+
+.theme-base-theme1 .content a:hover,
+.theme-base-theme1 .sidebar a:hover {
+  text-decoration: none;
+  background: #FFFFFF !important;
+}
+
+.theme-base-theme1 .content h2 a {
+  background: none !important;
+  border: none !important;
+}
+
+.theme-base-theme1 .sidebar-about h1 {
+  font-family: "Russo One", serif;
+  color: #2B2B2B;
+}
+
+@media (min-width: 48rem) {
+	.theme-base-theme1 .sidebar {
+		width: 14rem;
+	}
+
+	.theme-base-theme1 .sidebar-sticky {
+		left: 0;
+		right: 0;
+		bottom: 0;
+	}
+
+	.theme-base-theme1 .content {
+		margin-right: 16rem;
+	}
+}
+
+@media (min-width: 64rem) {
+	.theme-base-theme1 .content {
+		margin-right: 18rem;
+	}
+}
