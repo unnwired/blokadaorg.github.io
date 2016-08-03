@@ -312,10 +312,42 @@ body {
   text-align: justify;
 }
 .blokada-logo {
-  width: 360px;
+  width: 100%;
+  max-width: 360px;
 }
 @media (min-width: 768px) {
   .blokada-logo {
-    width: 480px;
+    max-width: 480px;
   }
+}
+.btn-feedback {
+  width: 36px;
+  height: 36px;
+  font-size: 24px;
+  color: white;
+  background: transparent;
+  -webkit-transition: background 0.3s ease-in-out;
+  -moz-transition: background 0.3s ease-in-out;
+  transition: background 0.3s ease-in-out;
+}
+.btn-feedback:hover,
+.btn-feedback:focus {
+  outline: none;
+  color: white;
+}
+.btn-feedback i.animated {
+  -webkit-transition-property: -webkit-transform;
+  -webkit-transition-duration: 1s;
+  -moz-transition-property: -moz-transform;
+  -moz-transition-duration: 1s;
+}
+.btn-feedback:hover i.animated {
+  -webkit-animation-name: pulse;
+  -moz-animation-name: pulse;
+  -webkit-animation-duration: 1.5s;
+  -moz-animation-duration: 1.5s;
+  -webkit-animation-iteration-count: infinite;
+  -moz-animation-iteration-count: infinite;
+  -webkit-animation-timing-function: linear;
+  -moz-animation-timing-function: linear;
 }

@@ -5,7 +5,7 @@
 
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
     <meta name="author" content="">
 
@@ -20,7 +20,7 @@
     <link href="http://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
 
     <!-- Theme CSS -->
-    <link href="css/grayscale.css" rel="stylesheet">
+    <link href="css/grayscale.min.css" rel="stylesheet">
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -38,11 +38,17 @@
         <div class="container">
             <div class="navbar-header">
                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-main-collapse">
-                    Menu <i class="fa fa-bars"></i>
+                    <i class="fa fa-bars"></i> Menu
                 </button>
                 <a class="navbar-brand page-scroll" href="#page-top">
                     <img src="img/blokada_horizontal.png" width="200" alt="Blokada" />
                 </a>
+
+                <div class="navbar-right">
+                    <a href="#" class="btn btn-feedback" onclick="_urq.push(['Feedback_Open']);">
+                        <i class="fa fa-comments animated"></i>
+                    </a>
+                </div>
             </div>
 
             <!-- Collect the nav links, forms, and other content for toggling -->
@@ -90,7 +96,7 @@
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2">
                 <h2>About Blokada</h2>
-                <p class="justin">Blokada is a compact app that transparently blocks unwanted content like ads, malware and other annoyances. It protects your privacy, saves your data plan and makes your device faster by preventing it from downloading and displaying unnecessary content.</p>
+                <p class="justin">Blokada is a compact app that transparently blocks unwanted content like ads, tracking, malware and other annoyances. It protects your privacy, saves your data plan and makes your device faster by preventing it from downloading and displaying unnecessary content.</p>
                 <p class="justin">Blokada works across all of your apps, not only the browser! It doesn't require root, supports both wifi and mobile networks, and is perfectly safe and simple to use. Just turn it on, and it will do the job silently!</p>
             </div>
         </div>
@@ -114,8 +120,7 @@
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2">
                 <h2>Blokada needs you</h2>
-                <p class="justin">Blokada is dope, but we have tons of ideas on how to make it even better! We need your feedback to know what to focus on. Contact us to give us suggestions for new features, report a bug, or to just say hello at <a href="mailto:hello@blokada.org">hello@blokada.org</a>! We will reply! 💃</p>
-                </p>
+                <p class="justin">Blokada is dope, however we have tons of ideas on how to make it even better! We need your feedback to know what to focus on. Use the comments button in the top menu to give us suggestions for new features, report a bug, or just say hello at <a href="mailto:hello@blokada.org">hello@blokada.org</a>! We will reply! 💃</p>
                 <ul class="list-inline banner-social-buttons">
                     <li>
                         <a href="https://twitter.com/blokadaorg" class="btn btn-default btn-lg"><i class="fa fa-twitter fa-fw"></i> <span class="network-name">Twitter</span></a>
@@ -147,12 +152,18 @@
     <!-- Plugin JavaScript -->
     <script src="http://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>
 
-    <!-- Google Maps API Key - Use your own API key to enable the map feature. More information on the Google Maps API can be found at https://developers.google.com/maps/ -->
-    <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCRngKslUGJTlibkQ3FkfTxj3Xss1UlZDA&sensor=false"></script>
-
     <!-- Theme JavaScript -->
     <script src="js/grayscale.min.js"></script>
 
+    <script type="text/javascript">
+    window._urq = window._urq || [];
+    _urq.push(['initSite', '3ff9476e-fcde-4126-a718-6187ac075da7']);
+    (function() {
+    var ur = document.createElement('script'); ur.type = 'text/javascript'; ur.async = true;
+    ur.src = ('https:' == document.location.protocol ? 'https://cdn.userreport.com/userreport.js' : 'http://cdn.userreport.com/userreport.js');
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ur, s);
+    })();
+    </script>
 </body>
 
 </html>
