@@ -16,9 +16,9 @@
 .theme-base-theme1 .sidebar a {
   color: #DF5401;
   padding: 1px 4px;
-  border: 1px solid #CEF9F7 !important;
+  border: 1px solid #F9E6CE !important;
   border-radius: 4px;
-  background: #F4F8F8 !important;
+  background: #F8F6F4 !important;
 }
 
 .theme-base-theme1 .content a:hover,
@@ -57,4 +57,10 @@
 	.theme-base-theme1 .content {
 		margin-right: 18rem;
 	}
+}
+
+.feedback {
+  position: relative;
+  float: right;
+  padding: 8px;
 }
