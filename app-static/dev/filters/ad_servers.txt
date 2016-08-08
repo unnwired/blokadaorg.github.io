@@ -19537,6 +19537,7 @@
 127.0.0.1	analytic.xingcloud.com
 127.0.0.1	analytics-api-samples.googlecode.com
 127.0.0.1	analytics-news.seevolution.com
+127.0.0.1	analytics-prod-ingress.bricknet.com
 127.0.0.1	analytics-v2.anvato.com
 127.0.0.1	analytics.163.com
 127.0.0.1	analytics.1and1.com
@@ -19889,6 +19890,7 @@
 127.0.0.1	apiservices.krxd.net
 127.0.0.1	apiskywebbercom-a.akamaihd.net
 127.0.0.1	apkquery.ksmobile.net
+127.0.0.1	apm.crittercism.com
 127.0.0.1	apnx-match.dotomi.com
 127.0.0.1	apo.ero-advertising.com
 127.0.0.1	apollo.go2cloud.org
@@ -26274,6 +26276,7 @@
 127.0.0.1	cpasaw.go2cloud.org
 127.0.0.1	cpaswag.go2cloud.org
 127.0.0.1	cpatrac.com
+127.0.0.1	cpatrackkee.com
 127.0.0.1	cpatrackr.com
 127.0.0.1	cpaway.afftrack.com
 127.0.0.1	cpays.com
@@ -27074,7 +27077,6 @@
 127.0.0.1	demandmedia.s3.amazonaws.com
 127.0.0.1	demarketing.go2cloud.org
 127.0.0.1	demetria-tickle.us
-127.0.0.1	demisoft.altervista.org
 127.0.0.1	demo.adsender.us
 127.0.0.1	demo.advertising.com
 127.0.0.1	demo.idg.com.au
@@ -29761,6 +29763,7 @@
 127.0.0.1	google-analytics.com
 127.0.0.1	googleads.g.doubleclick.net
 127.0.0.1	googleads2.g.doubleclick.net
+127.0.0.1	googleads4.g.doubleclick.net
 127.0.0.1	googleadservices.com
 127.0.0.1	googlesyndication.com
 127.0.0.1	googletagmanager.com
@@ -31123,6 +31126,9 @@
 127.0.0.1	ione.netmng.com
 127.0.0.1	iopodx.de
 127.0.0.1	ios.revmob.com
+127.0.0.1	iosads20.adcolony.com
+127.0.0.1	iosads22.adcolony.com
+127.0.0.1	iosads24.adcolony.com
 127.0.0.1	iota1.rtb.appier.net
 127.0.0.1	iota5.rtb.appier.net
 127.0.0.1	ip-api.com
@@ -32619,6 +32625,7 @@
 127.0.0.1	madmax53.stellar.cpa.clicksure.com
 127.0.0.1	madmimi.com
 127.0.0.1	madnet.ru
+127.0.0.1	mads.amazon-adsystem.com
 127.0.0.1	mads.at.atwola.com
 127.0.0.1	mads.bz
 127.0.0.1	mads.cnet.com
@@ -34349,6 +34356,7 @@
 127.0.0.1	on-mobi.com
 127.0.0.1	on.linkexchange.com
 127.0.0.1	on.maxspeedcdn.com
+127.0.0.1	onceux.unicornmedia.com
 127.0.0.1	onclasrv.com
 127.0.0.1	onclickads.net
 127.0.0.1	onclickads2.net
@@ -35848,6 +35856,7 @@
 127.0.0.1	r.zeroredirect1.com
 127.0.0.1	r.zeroredirect2.com
 127.0.0.1	r0d2x.voluumtrk.com
+127.0.0.1	r1---sn-vgqsen7z.googlevideo.com
 127.0.0.1	r1.ace.advertising.com
 127.0.0.1	r1.beta.ace.advertising.com
 127.0.0.1	r1.computerbild.de
@@ -35855,21 +35864,28 @@
 127.0.0.1	r1.fmpub.net
 127.0.0.1	r1.pcwelt.de
 127.0.0.1	r1.plugrush.com
+127.0.0.1	r1.sn-vgqsen7z.googlevideo.com
 127.0.0.1	r1.zedo.com
 127.0.0.1	r10.cooleremail.com
 127.0.0.1	r11.cooleremail.com
+127.0.0.1	r17---sn-vgqsenes.googlevideo.com
+127.0.0.1	r2---sn-vgqs7n7k.googlevideo.com
 127.0.0.1	r2.computerbild.de
 127.0.0.1	r2.cooleremail.com
 127.0.0.1	r2.linksynergy.com
 127.0.0.1	r2.plugrush.com
+127.0.0.1	r20---sn-vgqs7ne7.googlevideo.com
 127.0.0.1	r20.rs6.net
+127.0.0.1	r20.sn-vgqs7ne7.googlevideo.com
 127.0.0.1	r2fjs.voluumtrk.com
 127.0.0.1	r2jmarketing.go2cloud.org
 127.0.0.1	r2v3n.voluumtrk.com
 127.0.0.1	r3.cooleremail.com
 127.0.0.1	r3.plugrush.com
+127.0.0.1	r4---sn-vgqs7nez.googlevideo.com
 127.0.0.1	r4.cooleremail.com
 127.0.0.1	r4.plugrush.com
+127.0.0.1	r4.sn-vgqs7nez.googlevideo.com
 127.0.0.1	r4zih.voluumtrk.com
 127.0.0.1	r5.cooleremail.com
 127.0.0.1	r5.plugrush.com
@@ -36724,7 +36740,6 @@
 127.0.0.1	schumacher.adtech.fr
 127.0.0.1	sciamglobal.112.2o7.net
 127.0.0.1	scie.ovh
-127.0.0.1	scimmiablu.altervista.org
 127.0.0.1	sclick.baidu.com
 127.0.0.1	scootloor.com
 127.0.0.1	scorecard.wspisp.net
@@ -37098,6 +37113,7 @@
 127.0.0.1	service.clicksvenue.com
 127.0.0.1	service.maxymiser.net
 127.0.0.1	service.sponsorpay.com
+127.0.0.1	service.srvmd60.com
 127.0.0.1	service.urchin.com
 127.0.0.1	service001.adtech.fr
 127.0.0.1	service002.adtech.fr
@@ -40307,6 +40323,7 @@
 127.0.0.1	uur.at
 127.0.0.1	uv.terra.com.br
 127.0.0.1	uzhegovandrey.justclick.ru
+127.0.0.1	v.amazon-adsystem.com
 127.0.0.1	v.chartboost.com
 127.0.0.1	v.duba.net
 127.0.0.1	v.effectivemeasure.net
@@ -44631,6 +44648,7 @@
 127.0.0.1	wizard.bannerforge.com
 127.0.0.1	wizfitness.go2cloud.org
 127.0.0.1	wks.ero-advertising.com
+127.0.0.1	wlmfortunepartners.adsrv.eacdn.com
 127.0.0.1	wlwonl.ivwbox.de
 127.0.0.1	wlwt01.opentext.com
 127.0.0.1	wm-space.youero.com
@@ -45512,6 +45530,7 @@
 127.0.0.1	www.cpainfinity.com
 127.0.0.1	www.cpaprohits.com
 127.0.0.1	www.cpatrac.com
+127.0.0.1	www.cpatrackkee.com
 127.0.0.1	www.cpatrackr.com
 127.0.0.1	www.cpd8.net
 127.0.0.1	www.cpm-plus.com
@@ -47244,6 +47263,7 @@
 127.0.0.1	www.youradslab.com
 127.0.0.1	www.yourcartoons.com
 127.0.0.1	www.yourhitstats.com
+127.0.0.1	www.youtube-nocookie.com
 127.0.0.1	www.youyield.com
 127.0.0.1	www.ytubevideoqualitymanager.com
 127.0.0.1	www.z5x.net
@@ -47804,4 +47824,4 @@
 127.0.0.1	zz.zeroredirect1.com
 127.0.0.1	zzz.clickbank.net
 127.0.0.1	_thums.ero-advertising.com
-# Hosts: 47796
+# Hosts: 47816
