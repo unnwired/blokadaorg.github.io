@@ -1,0 +1,3 @@
+1
+https://hosts-file.net/ad_servers.txt;http://blokada.org/app-static/dev/filters/hphosts_ats.txt;hpHosts ATS;Ad and tracking servers from the hpHosts database. <a href="https://hosts-file.net/?s=Download">Source</a>.
+https://adaway.org/hosts.txt;http://blokada.org/app-static/dev/filters/adaway_hosts.txt;Adaway default blocklist;Blocks mobile ad providers and some analytics providers. <a href="http://adaway.org">Source</a>.
