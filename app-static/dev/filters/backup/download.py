@@ -1,7 +1,7 @@
 import urllib2
 
 
-lines = [line.rstrip('\n') for line in open('repo.txt')]
+lines = [line.rstrip('\n') for line in open('../repo.txt')]
 for line in lines[1:]:
 	l = line.split(';')
 	filename = l[1].split('/')[-1]

@@ -21,15 +21,15 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 #
 # For more information about this list, see: https://pgl.yoyo.org/adservers/
 # ----
-# last updated:   Wed, 23 Nov 2016 08:35:34 GMT
-# entries:        2363
+# last updated:   Thu, 22 Dec 2016 13:13:46 GMT
+# entries:        2364
 # format:         hosts (hosts -- in hosts file format)
 # credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 # this URL:       http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0
 # other formats:  https://pgl.yoyo.org/adservers/formats.php
 # policy:         https://pgl.yoyo.org/adservers/policy.php
 #
-# start date:    Fri, 25 Nov 2016 00:00:00
+# start date:    Mon, 30 Jan 2017 00:00:00
 127.0.0.1 101com.com
 127.0.0.1 101order.com
 127.0.0.1 123found.com
@@ -44,6 +44,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 2mdn.net
 127.0.0.1 2o7.net
 127.0.0.1 360yield.com
+127.0.0.1 4affiliate.net
 127.0.0.1 4d5.net
 127.0.0.1 50websads.com
 127.0.0.1 518ad.com
@@ -96,7 +97,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 ad.abcnews.com
 127.0.0.1 ad.abctv.com
 127.0.0.1 ad.about.com
-127.0.0.1 ad.aboutit.de
 127.0.0.1 ad.aboutwebservices.com
 127.0.0.1 ad.abum.com
 127.0.0.1 ad.afy11.net
@@ -202,6 +202,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 adapt.tv
 127.0.0.1 adbanner.ro
 127.0.0.1 adbard.net
+127.0.0.1 adbers.com
 127.0.0.1 adblade.com
 127.0.0.1 adblockanalytics.com
 127.0.0.1 adboost.de.vu
@@ -225,7 +226,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 adclick.com
 127.0.0.1 adclient.uimserv.net
 127.0.0.1 adclient1.tucows.com
-127.0.0.1 adcloud.net
 127.0.0.1 adcomplete.com
 127.0.0.1 adconion.com
 127.0.0.1 adcontent.gamespy.com
@@ -251,7 +251,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 adgridwork.com
 127.0.0.1 adhese.be
 127.0.0.1 adhese.com
-127.0.0.1 adi.mainichi.co.jp
 127.0.0.1 adimage.asiaone.com.sg
 127.0.0.1 adimage.guardian.co.uk
 127.0.0.1 adimages.been.com
@@ -347,6 +346,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 adrolays.de
 127.0.0.1 adrotate.de
 127.0.0.1 adrotator.se
+127.0.0.1 adrta.com
 127.0.0.1 ads-click.com
 127.0.0.1 ads.4tube.com
 127.0.0.1 ads.5ci.lt
@@ -386,7 +386,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 ads.betfair.com.au
 127.0.0.1 ads.bigchurch.com
 127.0.0.1 ads.bigfoot.com
-127.0.0.1 ads.billiton.de
 127.0.0.1 ads.bing.com
 127.0.0.1 ads.bittorrent.com
 127.0.0.1 ads.blog.com
@@ -446,7 +445,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 ads.elitetrader.com
 127.0.0.1 ads.emirates.net.ae
 127.0.0.1 ads.epltalk.com
-127.0.0.1 ads.esmas.com
 127.0.0.1 ads.eu.msn.com
 127.0.0.1 ads.exactdrive.com
 127.0.0.1 ads.expat-blog.biz
@@ -474,7 +472,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 ads.ft.com
 127.0.0.1 ads.futurenet.com
 127.0.0.1 ads.gamecity.net
-127.0.0.1 ads.gameforgeads.de
 127.0.0.1 ads.gamershell.com
 127.0.0.1 ads.gamespyid.com
 127.0.0.1 ads.gamigo.de
@@ -757,7 +754,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 adserver.html.it
 127.0.0.1 adserver.irishwebmasterforum.com
 127.0.0.1 adserver.janes.com
-127.0.0.1 adserver.kyoceramita-europe.com
 127.0.0.1 adserver.libero.it
 127.0.0.1 adserver.news.com.au
 127.0.0.1 adserver.ngz-network.de
@@ -935,6 +931,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 allosponsor.com
 127.0.0.1 amazingcounters.com
 127.0.0.1 amazon-adsystem.com
+127.0.0.1 americash.com
 127.0.0.1 amung.us
 127.0.0.1 an.tacoda.net
 127.0.0.1 anahtars.com
@@ -999,7 +996,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 banner.goldenpalace.com
 127.0.0.1 banner.img.co.za
 127.0.0.1 banner.inyourpocket.com
-127.0.0.1 banner.joylandcasino.com
 127.0.0.1 banner.kiev.ua
 127.0.0.1 banner.linux.se
 127.0.0.1 banner.media-system.de
@@ -1009,7 +1005,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 banner.northsky.com
 127.0.0.1 banner.orb.net
 127.0.0.1 banner.penguin.cz
-127.0.0.1 banner.prestigecasino.com
 127.0.0.1 banner.rbc.ru
 127.0.0.1 banner.relcom.ru
 127.0.0.1 banner.tanto.de
@@ -1067,12 +1062,12 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 bannersng.yell.com
 127.0.0.1 bannerspace.com
 127.0.0.1 bannerswap.com
-127.0.0.1 bannertesting.com
 127.0.0.1 bannery.cz
 127.0.0.1 bannieres.acces-contenu.com
 127.0.0.1 bans.adserver.co.il
 127.0.0.1 bans.bride.ru
 127.0.0.1 barnesandnoble.bfast.com
+127.0.0.1 basebanner.com
 127.0.0.1 baypops.com
 127.0.0.1 bbelements.com
 127.0.0.1 bbn.img.com.ua
@@ -1086,6 +1081,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 bhclicks.com
 127.0.0.1 bidclix.com
 127.0.0.1 bidclix.net
+127.0.0.1 bidswitch.net
 127.0.0.1 bidtrk.com
 127.0.0.1 bidvertiser.com
 127.0.0.1 bigbangmedia.com
@@ -1134,6 +1130,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 c.bigmir.net
 127.0.0.1 c.compete.com
 127.0.0.1 c1.nowlinux.com
+127.0.0.1 c1exchange.com
 127.0.0.1 campaign.bharatmatrimony.com
 127.0.0.1 caniamedia.com
 127.0.0.1 carbonads.com
@@ -1153,16 +1150,16 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 casinotraffic.com
 127.0.0.1 casinotreasure.com
 127.0.0.1 cbanners.virtuagirlhd.com
-127.0.0.1 cben1.net
 127.0.0.1 cbmall.com
-127.0.0.1 cbx.net
 127.0.0.1 cdn.freefacti.com
 127.0.0.1 cdn.freefarcy.com
 127.0.0.1 cecash.com
+127.0.0.1 centerpointmedia.com
 127.0.0.1 ceskydomov.alias.ngs.modry.cz
 127.0.0.1 cetrk.com
 127.0.0.1 cgicounter.puretec.de
 127.0.0.1 ch.questionmarket.com
+127.0.0.1 chameleon.ad
 127.0.0.1 channelintelligence.com
 127.0.0.1 chart.dk
 127.0.0.1 chartbeat.com
@@ -1199,6 +1196,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 clickhype.com
 127.0.0.1 clicklink.jp
 127.0.0.1 clickmedia.ro
+127.0.0.1 clickonometrics.pl
 127.0.0.1 clicks.equantum.com
 127.0.0.1 clicks.mods.de
 127.0.0.1 clickserve.cc-dt.com
@@ -1217,6 +1215,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 clicmanager.fr
 127.0.0.1 clients.tbo.com
 127.0.0.1 clixgalore.com
+127.0.0.1 clk.konflab.com
 127.0.0.1 clkads.com
 127.0.0.1 clkrev.com
 127.0.0.1 cluster.adultworld.com
@@ -1274,7 +1273,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 crawlability.com
 127.0.0.1 crazypopups.com
 127.0.0.1 creafi-online-media.com
-127.0.0.1 creative.ak.facebook.com
 127.0.0.1 creative.whi.co.nz
 127.0.0.1 creatives.as4x.tmcs.net
 127.0.0.1 creatives.livejasmin.com
@@ -1301,6 +1299,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 decknetwork.net
 127.0.0.1 deloo.de
 127.0.0.1 demandbase.com
+127.0.0.1 demdex.net
 127.0.0.1 di1.shopping.com
 127.0.0.1 dialerporn.com
 127.0.0.1 didtheyreadit.com
@@ -1369,6 +1368,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 eu1.madsone.com
 127.0.0.1 eur.a1.yimg.com
 127.0.0.1 eurekster.com
+127.0.0.1 euro-linkindex.de
 127.0.0.1 euroclick.com
 127.0.0.1 euros4click.de
 127.0.0.1 eusta.de
@@ -1379,6 +1379,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 exchange.bg
 127.0.0.1 exchangead.com
 127.0.0.1 exchangeclicksonline.com
+127.0.0.1 exelator.com
 127.0.0.1 exit76.com
 127.0.0.1 exitexchange.com
 127.0.0.1 exitfuel.com
@@ -1452,7 +1453,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 getclicky.com
 127.0.0.1 globalismedia.com
 127.0.0.1 globaltakeoff.net
-127.0.0.1 globaltrack.com
+127.0.0.1 globaltrack.com.invalid
 127.0.0.1 globe7.com
 127.0.0.1 globus-inter.com
 127.0.0.1 gmads.net
@@ -1472,6 +1473,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 greystripe.com
 127.0.0.1 gtop.ro
 127.0.0.1 gtop100.com
+127.0.0.1 gunggo.com
 127.0.0.1 harrenmedia.com
 127.0.0.1 harrenmedianetwork.com
 127.0.0.1 havamedia.net
@@ -1545,7 +1547,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 imarketservices.com
 127.0.0.1 img.prohardver.hu
 127.0.0.1 imgpromo.easyrencontre.com
-127.0.0.1 imitrk.com
 127.0.0.1 imonitor.nethost.cz
 127.0.0.1 imprese.cz
 127.0.0.1 impressionmedia.cz
@@ -1585,7 +1586,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 jcount.com
 127.0.0.1 jinkads.de
 127.0.0.1 joetec.net
-127.0.0.1 jokedollars.com
 127.0.0.1 js.users.51.la
 127.0.0.1 juicyads.com
 127.0.0.1 jumptap.com
@@ -1600,6 +1600,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 komoona.com
 127.0.0.1 kompasads.com
 127.0.0.1 kontera.com
+127.0.0.1 kt-g.de
 127.0.0.1 ktu.sv2.biz
 127.0.0.1 lakequincy.com
 127.0.0.1 layer-ad.de
@@ -1866,7 +1867,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 pixel.adsafeprotected.com
 127.0.0.1 pixel.jumptap.com
 127.0.0.1 pixel.redditmedia.com
-127.0.0.1 planetactive.com
 127.0.0.1 play4traffic.com
 127.0.0.1 playhaven.com
 127.0.0.1 plista.com
@@ -1967,7 +1967,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 reduxmedia.com
 127.0.0.1 reduxmediagroup.com
 127.0.0.1 reedbusiness.com.invalid
-127.0.0.1 reefaquarium.biz
 127.0.0.1 referralware.com
 127.0.0.1 regnow.com
 127.0.0.1 reinvigorate.net
@@ -2009,6 +2008,8 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 s.adroll.com
 127.0.0.1 s2d6.com
 127.0.0.1 sageanalyst.net
+127.0.0.1 samsungacr.com
+127.0.0.1 samsungads.com
 127.0.0.1 sbx.pagesjaunes.fr
 127.0.0.1 scambiobanner.aruba.it
 127.0.0.1 scanscout.com
@@ -2048,7 +2049,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 siccash.com
 127.0.0.1 sidebar.angelfire.com
 127.0.0.1 sinoa.com
-127.0.0.1 sitemerkezi.net
 127.0.0.1 sitemeter.com
 127.0.0.1 sitestat.com
 127.0.0.1 sixsigmatraffic.com
@@ -2104,6 +2104,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 stats.directnic.com
 127.0.0.1 stats.hyperinzerce.cz
 127.0.0.1 stats.mirrorfootball.co.uk
+127.0.0.1 stats.multiup.org
 127.0.0.1 stats.olark.com
 127.0.0.1 stats.suite101.com
 127.0.0.1 stats.surfaid.ihost.com
@@ -2147,6 +2148,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 targetpoint.com
 127.0.0.1 tatsumi-sys.jp
 127.0.0.1 tcads.net
+127.0.0.1 teads.tv
 127.0.0.1 techclicks.net
 127.0.0.1 teenrevenue.com
 127.0.0.1 teliad.de
@@ -2188,7 +2190,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 toplist.pornhost.com
 127.0.0.1 toplista.mw.hu
 127.0.0.1 toplistcity.com
-127.0.0.1 topmmorpgsites.com
+127.0.0.1 topmmorpgsites.com.invalid
 127.0.0.1 topping.com.ua
 127.0.0.1 toprebates.com
 127.0.0.1 topsafelist.net
@@ -2205,6 +2207,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 track.adform.net
 127.0.0.1 track.anchorfree.com
 127.0.0.1 track.gawker.com
+127.0.0.1 track.happysitewriter.com
 127.0.0.1 trackalyzer.com
 127.0.0.1 tracker.icerocket.com
 127.0.0.1 tracker.marinsm.com
@@ -2219,7 +2222,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 tradedoubler.com
 127.0.0.1 traffic-exchange.com
 127.0.0.1 traffic.liveuniversenetwork.com
-127.0.0.1 trafficadept.com
 127.0.0.1 trafficcdn.liveuniversenetwork.com
 127.0.0.1 trafficfactory.biz
 127.0.0.1 trafficholder.com
@@ -2291,7 +2293,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 vrs.cz
 127.0.0.1 vs.tucows.com
 127.0.0.1 vungle.com
-127.0.0.1 wads.webteh.com
 127.0.0.1 warlog.ru
 127.0.0.1 wdads.sx.atl.publicus.com
 127.0.0.1 web-stat.com
@@ -2320,7 +2321,6 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 webtraffic.se
 127.0.0.1 webtraxx.de
 127.0.0.1 webtrendslive.com
-127.0.0.1 wegcash.com
 127.0.0.1 werbung.meteoxpress.com
 127.0.0.1 wetrack.it
 127.0.0.1 whaleads.com
@@ -2350,6 +2350,7 @@ Ad server hostnames for blocking ads (format: hosts -- in hosts file format)</ti
 127.0.0.1 www.photo-ads.co.uk
 127.0.0.1 www1.gto-media.com
 127.0.0.1 www8.glam.com
+127.0.0.1 wwwpromoter.com
 127.0.0.1 x-traceur.com
 127.0.0.1 x6.yakiuchi.com
 127.0.0.1 xchange.ro
