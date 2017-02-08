@@ -1,1 +1,11 @@
-- Added lots of awesome
+This is a major release with a great amount of new features, improvements and bugfixes!<br/><br/>
+
+- Fully reworked, intuitive User Interface<br/>
+- Simple Mode for casual users and Advanced Mode for power users<br/>
+- Automatic updates and notification<br/>
+- Added a powerful whitelisting feature<br/>
+- Added a possibility to manage custom host files (blacklists)<br/>
+- Added a  Quick Settings tile for Android Nougat<br/>
+- Easy in-app bug reporting<br/>
+- Significant speed improvements<br/>
+- Many smaller improvements
