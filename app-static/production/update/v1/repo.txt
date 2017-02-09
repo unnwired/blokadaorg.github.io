@@ -1,4 +1,5 @@
-5
-1.0
-http://blokada.org/app-static/production/update/v1/changelog/5.txt
-https://github.com/blokadaorg/blokada/releases/download/v1.0/blokada-v1.0.apk
+6
+1.0.1
+http://blokada.org/app-static/production/update/v1/changelog/6.txt
+https://github.com/blokadaorg/blokada/releases/download/v1.0.1/blokada-v1.0.1.apk
+http://go.blokada.org/download_apk_github_newest
