@@ -1,0 +1,3 @@
+This is a bugfix release.<br/><br/>
+
+Some users are experiencing problems downloading this update. If so, please follow <a href="http://go.blokada.org/apk">this link</a> to download Blokada, or go to <a href="http://blokada.org">blokada.org</a> to download it manually.
