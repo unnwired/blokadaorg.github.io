@@ -1,0 +1,3 @@
+This is a hotfix release that fixes several crashes some users experienced with v1.0.1.<br/><br/>
+
+- Removed configuration section (now all host files are in Blacklist)
