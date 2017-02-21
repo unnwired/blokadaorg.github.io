@@ -1,0 +1,9 @@
+This is a maintenance release that fixes several bugs and improves app stability.<br/><br/>
+
+- Added "Keep Alive" notification to prevent Android from killing the app on some devices<br/>
+- Added tethering detection (Blokada will temporarily disable itself)<br/>
+- Improved behavior when there is no Internet connection<br/>
+- Fixed a problem with updates on some devices<br/>
+- Improved memory usage<br/><br/>
+
+If you are experiencing problems installing this update, please follow <a href="http://go.blokada.org/apk">this link</a> to download Blokada and install it manually. Visit <a href="http://blokada.org">blokada.org</a> for help. Sorry for the inconvenience.
