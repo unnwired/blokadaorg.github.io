@@ -1,3 +1,5 @@
 This is a hotfix release that fixes several crashes some users experienced with v1.0.1.<br/><br/>
 
-- Removed configuration section (now all host files are in Blacklist)
+- Removed configuration section (now all host files are in Blacklist)<br/><br/>
+
+<b>Some users are experiencing problems installing this update.</b> If so, please go to blokada.org using your browser and download it manually. Sorry for the inconvenience.
