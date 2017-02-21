@@ -1,4 +1,5 @@
 99
 9.9
 http://blokada.org/app-static/dev/update/v1/changelog/99.txt
+https://www.dropbox.com/s/q6hdcxfph3rh4l5/app-dev-debug.apk?dl=1
 https://github.com/blokadaorg/blokada/releases/download/v1.0/blokada-v1.0.apk
