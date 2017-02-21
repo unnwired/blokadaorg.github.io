@@ -2,4 +2,4 @@ This is a hotfix release that fixes several crashes some users experienced with 
 
 - Removed configuration section (now all host files are in Blacklist)<br/><br/>
 
-<b>Some users are experiencing problems installing this update.</b> If so, please go to blokada.org using your browser and download it manually. Sorry for the inconvenience.
+Some users are experiencing problems downloading this update. If so, please follow <a href="http://go.blokada.org/apk">this link</a> to download Blokada, or go to <a href="http://blokada.org">blokada.org</a> to download it manually. Sorry for the inconvenience.
