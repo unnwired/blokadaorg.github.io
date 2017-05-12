@@ -1,3 +1,5 @@
+<b>Note:</b> if you are experiencing problems installing this update, <a href="http://go.blokada.org/apk">please follow this link</a> to download Blokada and install it manually. If you have version 1.2, you will need to uninstall it first. Visit <a href="http://blokada.org">blokada.org</a> for help.<br/><br/>
+
 This is a feature release that introduces a new optimised blocking mechanism with:<br/><br/>
 
 - Decreased battery usage<br/>
@@ -13,6 +15,4 @@ Additionally, this release fixes many bugs and problems:<br/><br/>
 - Fixed dissapearing blacklist / whitelist entries<br/>
 - Improved Auto Start, Keep Alive and general app stability<br/>
 - Fixed several reported bugs and crashes<br/>
-- Added a possibility to whitelist hosts directly from blocking notifications<br/><br/>
-
-If you are experiencing problems installing this update, please follow <a href="http://go.blokada.org/apk">this link</a> to download Blokada and install it manually. Visit <a href="http://blokada.org">blokada.org</a> for help.
+- Added a possibility to whitelist hosts directly from blocking notifications
