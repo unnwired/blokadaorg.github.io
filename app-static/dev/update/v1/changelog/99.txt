@@ -1,18 +1,18 @@
-This is a feature release that introduces a new optimised blocking mechanism with:<br/><br/>
+This is a feature release that introduces a new optimised blocking mechanism with:
 
-- Decreased battery usage<br/>
-- Improved performance (no impact on connection bandwidth or ping)<br/>
-- Higher reliability (more apps and devices work just fine with it)<br/>
-- IPv6 support<br/>
-- Significant stability improvements<br/><br/>
+- Decreased battery usage
+- Improved performance (no impact on connection bandwidth or ping)
+- Higher reliability (more apps and devices work just fine with it)
+- IPv6 support
+- Significant stability improvements
 
-The new mechanism requires Android 5 or newer and is enabled by default. For older devices, the old mechanism is used instead.<br/><br/>
+The new mechanism requires Android 5 or newer and is enabled by default. For older devices, the old mechanism is used instead.
 
-Additionally, this release fixes many bugs and problems:<br/><br/>
+Additionally, this release fixes many bugs and problems:
 
-- Fixed dissapearing blacklist / whitelist entries<br/>
-- Improved Auto Start, Keep Alive and general app stability<br/>
-- Fixed several reported bugs and crashes<br/>
-- Added a possibility to whitelist hosts directly from blocking notifications<br/><br/>
+- Fixed dissapearing blacklist / whitelist entries
+- Improved Auto Start, Keep Alive and general app stability
+- Fixed several reported bugs and crashes
+- Added a possibility to whitelist hosts directly from blocking notifications
 
-If you are experiencing problems installing this update, please follow <a href="http://go.blokada.org/apk">this link</a> to download Blokada and install it manually. Visit <a href="http://blokada.org">blokada.org</a> for help.
+This is a link: <a href="http://go.blokada.org/apk">this link</a> yeah.
