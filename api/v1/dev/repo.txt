@@ -1,4 +1,4 @@
-http://blokada.org/content/
+http://blokada.org/content
 en es pl
 21
 2.1
