@@ -2,6 +2,8 @@
 
 This is the first fully open sourced release. Blokada is now ready for the community to step in and make it the best ad blocker for Android. :)<br/><br/>
 
+<b>Important! This update will loose your custom filters. If you have any custom lists and want to keep them, contact me.</b>
+
 <b>Blokada is made by you.</b><br/><br/>
 
 Now it's time to show your support. Translations, coding, donations - go to <a href="http://blokada.org/#you">blokada.org/#you</a> and see how you can help Blokada stay independent and awesome!<br/><br/>
