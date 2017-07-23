@@ -1,0 +1,19 @@
+<b>Blokada is Open Source now!</b><br/><br/>
+
+This is the first fully open sourced release. Blokada is now ready for the community to step in and make it the best ad blocker for Android. :)<br/><br/>
+
+<b>Blokada is made by you.</b><br/><br/>
+
+Now it's time to show your support. Translations, coding, donations - go to <a href="http://blokada.org/#you">blokada.org/#you</a> and see how you can help Blokada stay independent and awesome!<br/><br/>
+
+Major changes:<br/>
+- Blokada now speaks Spanish, Portuguese, French, Polish and Czech!<br/>
+- Significant rewrite for better stability<br/>
+- Fixed Blokada turning itself off and never on again<br/>
+- Improved Start on Boot<br/>
+- Optimized code to improve battery life<br/>
+- A lot of work done for easier contributions<br/>
+- Bufixes<br/>
+
+If you are experiencing problems installing this update, please follow <a href="http://go.blokada.org/apk">this link</a> to download Blokada and install it manually. Visit <a href="http://blokada.org">blokada.org</a> for help.
+
