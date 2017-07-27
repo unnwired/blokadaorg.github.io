@@ -12,8 +12,8 @@ https://feedback.userreport.com/3ff9476e-fcde-4126-a718-6187ac075da7/#ideas/popu
 https://feedback.userreport.com/3ff9476e-fcde-4126-a718-6187ac075da7/#submit/bug
 https://feedback.userreport.com/3ff9476e-fcde-4126-a718-6187ac075da7/#ideas/popular
 https://feedback.userreport.com/3ff9476e-fcde-4126-a718-6187ac075da7/#submit/bug
-21
-2.1
-https://github.com/blokadaorg/blokada/releases/download/v2.0.1/blokada-origin-v2.0.1.apk
-https://www.dropbox.com/s/feffq9pju0ljxqj/blokada-origin-v2.0.1.apk?dl=1
-http://go.blokada.org/apk2_origin
+20
+2.0
+https://github.com/blokadaorg/blokada/releases/download/v2.0/blokada-v2.0.apk
+https://www.dropbox.com/s/n0jmi6pidrgdv61/app-prodlegacy-release.apk?dl=1
+http://go.blokada.org/apk
