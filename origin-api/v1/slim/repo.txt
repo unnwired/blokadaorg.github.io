@@ -15,5 +15,5 @@ https://feedback.userreport.com/3ff9476e-fcde-4126-a718-6187ac075da7/#submit/bug
 21
 2.0.1
 https://github.com/blokadaorg/blokada/releases/download/v2.0.1/blokada-v2.0.1.apk
-https://www.dropbox.com/s/uppsqy8k4kxwn1r/blokada-v2.0.1.apk?dl=1
+https://www.dropbox.com/s/vw32yt7qjrwol9i/blokada-v2.0.1.apk?dl=1
 http://go.blokada.org/apk2_origin_slim
