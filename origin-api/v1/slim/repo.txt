@@ -1,5 +1,5 @@
 http://blokada.org/origin-content
-en es pl cs fr pt
+en es pl cs fr pt de nl ms
 https://feedback.userreport.com/3ff9476e-fcde-4126-a718-6187ac075da7/#ideas/popular
 https://feedback.userreport.com/3ff9476e-fcde-4126-a718-6187ac075da7/#submit/bug
 https://feedback.userreport.com/465ed558-be4c-4d3e-8a77-49e7b126ec2a/#ideas/popular
@@ -12,8 +12,14 @@ https://feedback.userreport.com/3ff9476e-fcde-4126-a718-6187ac075da7/#ideas/popu
 https://feedback.userreport.com/3ff9476e-fcde-4126-a718-6187ac075da7/#submit/bug
 https://feedback.userreport.com/3ff9476e-fcde-4126-a718-6187ac075da7/#ideas/popular
 https://feedback.userreport.com/3ff9476e-fcde-4126-a718-6187ac075da7/#submit/bug
-21
-2.0.1
-https://github.com/blokadaorg/blokada/releases/download/v2.0.1/blokada-v2.0.1.apk
-https://www.dropbox.com/s/vkja4ew6f2q1qro/blokada-v2.0.1.apk?dl=1
+https://feedback.userreport.com/3ff9476e-fcde-4126-a718-6187ac075da7/#ideas/popular
+https://feedback.userreport.com/3ff9476e-fcde-4126-a718-6187ac075da7/#submit/bug
+https://feedback.userreport.com/3ff9476e-fcde-4126-a718-6187ac075da7/#ideas/popular
+https://feedback.userreport.com/3ff9476e-fcde-4126-a718-6187ac075da7/#submit/bug
+https://feedback.userreport.com/3ff9476e-fcde-4126-a718-6187ac075da7/#ideas/popular
+https://feedback.userreport.com/3ff9476e-fcde-4126-a718-6187ac075da7/#submit/bug
+24
+2.0.4
+https://github.com/blokadaorg/blokada/releases/download/v2.0.4/blokada-v2.0.4.apk
+https://www.dropbox.com/s/66dpf0otccz03xv/blokada-v2.0.4.apk?dl=1
 http://go.blokada.org/apk2_origin_slim
