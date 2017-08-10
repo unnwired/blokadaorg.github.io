@@ -70,3 +70,12 @@ app
 com.android.vending
 
 
+3
+b_app_gdocs
+whitelist
+active
+http://blokada.org
+app
+com.google.android.apps.docs
+
+
