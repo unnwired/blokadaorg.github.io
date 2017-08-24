@@ -23,7 +23,7 @@ flavors="prod slim legacy noupdate"
 function runPublish {
     for v in $versions; do
 	for f in $flavors; do
-		cp $api/$v/repo-template $api/$v/$f/repo.txt
+		cp $api/$v/$f/repo-template $api/$v/$f/repo.txt
 		sed -i -- "s/{version-code}/$param1/g" $api/$v/$f/repo.txt
 		sed -i -- "s/{version-name}/$param2/g" $api/$v/$f/repo.txt
 	done
