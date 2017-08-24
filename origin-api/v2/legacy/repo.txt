@@ -24,8 +24,7 @@ https://feedback.userreport.com/3ff9476e-fcde-4126-a718-6187ac075da7/#ideas/popu
 https://feedback.userreport.com/3ff9476e-fcde-4126-a718-6187ac075da7/#submit/bug
 https://feedback.userreport.com/3ff9476e-fcde-4126-a718-6187ac075da7/#ideas/popular
 https://feedback.userreport.com/3ff9476e-fcde-4126-a718-6187ac075da7/#submit/bug
-26
-2.2
-https://github.com/blokadaorg/blokada/releases/download/v2.2/blokada-legacy-v2.2.apk
-https://www.dropbox.com/s/ybuo4q37n5rt3o3/blokada-legacy-v2.2.apk?dl=1
+28
+2.2.2
+https://github.com/blokadaorg/blokada/releases/download/v2.2.2/blokada-legacy-v2.2.2.apk
 http://go.blokada.org/apk2_legacy
