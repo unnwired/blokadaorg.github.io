@@ -1,1 +1,1 @@
-../../../api/v2/prod/filters.txt
+../prod/filters.txt

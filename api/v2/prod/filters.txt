@@ -55,7 +55,7 @@ http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0
 1
 b_userreport
 whitelist
-active
+inactive
 http://blokada.org
 link
 http://blokada.org/content/root/cache/b_userreport.txt
