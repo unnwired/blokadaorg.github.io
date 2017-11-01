@@ -88,3 +88,12 @@ app
 com.google.android.gm
 
 
+5
+b_app_signal
+whitelist
+active
+http://blokada.org
+app
+org.thoughtcrime.securesms
+
+
