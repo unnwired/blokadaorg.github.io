@@ -49,7 +49,7 @@ blacklist
 inactive
 http://pgl.yoyo.org/adservers/
 link
-http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0
+https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0
 
 
 1
