@@ -32,7 +32,7 @@ https://feedback.userreport.com/3ff9476e-fcde-4126-a718-6187ac075da7/#ideas/popu
 http://go.blokada.org/bug_en
 https://feedback.userreport.com/3ff9476e-fcde-4126-a718-6187ac075da7/#ideas/popular
 http://go.blokada.org/bug_en
-28
-2.2.2
-https://github.com/blokadaorg/blokada/releases/download/v2.2.2/blokada-v2.2.2.apk
+29
+2.2.3
+https://bitbucket.org/blokada/blokada/downloads/blokada-v2.2.3.apk
 http://go.blokada.org/apk2_origin_slim
