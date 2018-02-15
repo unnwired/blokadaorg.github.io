@@ -18,7 +18,7 @@ param1=$3
 param2=$4
 
 versions="v1 v2"
-flavors="prod slim legacy noupdate"
+flavors="prod firebase slim legacy noupdate"
 
 function runPublish {
     for v in $versions; do
