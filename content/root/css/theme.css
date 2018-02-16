@@ -1,12 +1,13 @@
 /*
  * Hyde theme
  */
-.theme-base-theme1 p {
+.theme-base-theme1 p, .theme-base-theme1 ul, .theme-base-theme1 ol {
   text-align: justify;
   color: #c4c4c4;
 }
 
 h1, h2, h3, h4 {
+  margin-top: 0.1rem;
   color: #c4c4c4;
 }
 
@@ -15,8 +16,8 @@ body {
 }
 
 .content {
-  padding-top:    2rem;
-  padding-bottom: 4rem;
+  padding-top: 0;
+  padding-bottom: 0;
 }
 
 .theme-base-theme1 .sidebar {
