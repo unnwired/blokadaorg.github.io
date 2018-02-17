@@ -3,12 +3,12 @@
  */
 .theme-base-theme1 p, .theme-base-theme1 ul, .theme-base-theme1 ol {
   text-align: justify;
-  color: #c4c4c4;
+  color: #eaeaea;
 }
 
 h1, h2, h3, h4 {
   margin-top: 0.1rem;
-  color: #c4c4c4;
+  color: #eaeaea;
 }
 
 body {
@@ -29,7 +29,7 @@ body {
 .theme-base-theme1 .content a,
 .theme-base-theme1 .related-posts li a:hover,
 .theme-base-theme1 .sidebar a {
-  color: #DF5401;
+  color: #ff5f00;
 }
 
 .theme-base-theme1 .content a:hover,
