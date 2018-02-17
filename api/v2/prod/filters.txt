@@ -61,15 +61,6 @@ link
 https://raw.githubusercontent.com/ZeroDot1/CoinBlockerLists/master/hosts
 
 
-1
-b_userreport
-whitelist
-inactive
-http://blokada.org
-link
-http://blokada.org/content/root/cache/b_userreport.txt
-
-
 2
 b_app_vending
 whitelist
