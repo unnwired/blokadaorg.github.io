@@ -16,8 +16,8 @@ body {
 }
 
 .content {
-  padding-top: 0;
-  padding-bottom: 0;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
 }
 
 .theme-base-theme1 .sidebar {
