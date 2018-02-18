@@ -20,6 +20,11 @@ body {
   padding-bottom: 1rem;
 }
 
+.theme-base-theme1 .comment {
+  color: #aaa;
+  font-size: 0.8rem;
+}
+
 .theme-base-theme1 .sidebar {
   background-color: #f1f1f1;
   border-left: 1px #E4E4E4 solid;
