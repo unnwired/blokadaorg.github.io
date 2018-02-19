@@ -1,0 +1,5 @@
+https://blokada.org/api/v3/content
+en es pl
+30
+3.0.0-preview
+http://go.blokada.org/apk
