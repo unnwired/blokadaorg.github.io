@@ -53,6 +53,15 @@ https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0
 
 
 7
+b_social
+blacklist
+inactive
+https://github.com/StevenBlack/hosts
+link
+https://raw.githubusercontent.com/StevenBlack/hosts/master/extensions/social/hosts
+
+
+8
 b_mining
 blacklist
 inactive
