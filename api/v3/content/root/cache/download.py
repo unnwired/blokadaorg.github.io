@@ -1,7 +1,7 @@
 import urllib2
 
 
-lines = [line.rstrip('\n') for line in open('../../api/v1/prod/filters')]
+lines = [line.rstrip('\n') for line in open('../filters.txt')]
 for i in range(0, len(lines), 9):
 	entry = lines[i:i + 9]
 	name = "%s.txt" % entry[1]
