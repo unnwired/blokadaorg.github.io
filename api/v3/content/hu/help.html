@@ -1,1 +1,127 @@
-../root/help.html
+<!DOCTYPE html>
+<html class="no-js">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1" />
+
+<link rel="stylesheet" href="css/poole.css" />
+<link rel="stylesheet" href="css/syntax.css" />
+<link rel="stylesheet" href="css/hyde.css" />
+<link rel="stylesheet" href="css/theme.css" />
+<link rel="stylesheet" href="//fonts.googleapis.com/css?family=PT+Sans:400,700|Russo+One" />
+<link rel="stylesheet" href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" />
+
+</head>
+<body class="theme-base-theme1 layout-reverse">
+
+<div class="content">
+    <div class="container">
+        <section id="main">
+
+<h3>Gyors indítás</h3>
+<ol>
+  <li><a href="#howitworks">Hogyan működik a Blokada?</a></li>
+  <li><a href="#vpn">Tudok másik VPN-t használni ha a Blokada be van kapcsolva?</a></li>
+  <li><a href="#options">Milyen lehetőségek vannak a Blokada-ban?</a></li>
+  <li><a href="#ads">Mit tehetek ha még mindig látok néhány reklámot?</a></li>
+  <li><a href="#kill">Mit tehetek ha a Blokada működése megáll egy idő után?</a></li>
+  <li><a href="#unsupported">Problémába futottam a Blokada indulásakor, mit tehetek?</a></li>
+  <li><a href="#update">Nem tudok egy frissítést telepíteni, mit tehetek?</a></li>
+  <li><a href="#notification">El tudom rejteni a VPN értesítést?</a></li>
+  <li><a href="#bug">Hogyan tudok egy problémát jelenteni, ötletet vagy javaslatot küldeni?</a></li>
+  <li><a href="#private">Láthatja a Blokada a privát adataimat?</a></li>
+  <li><a href="#battery">Nagyon akkumulátorigényes a Blokada?</a></li>
+  <li><a href="#speed">Le fogja lassítani a Blokada az készülékemet?</a></li>
+  <li><a href="#free">Tényleg ingyenes a Blokada használata?</a></li>
+  <li><a href="#contribute">A Blokada nagyszerű, hogyan tudom segíteni a projektet?</a></li>
+  <li><a href="#other">Van egy további kérdésem, hol tudom feltenni?</a></li>
+</ol>
+
+<h4><a name="howitworks">Hogyan működik a Blokada?</a></h4>
+<p>Blokada egy vékony réteg a telefonod hálózati eszköze (wifi vagy mobil) és az általad használt alkalmazások között. Hogy képes legyen az összes kimenő forgalmat szűrni, létrehoz egy VPN kapcsolatot és egyszerűen csak blokkolja azokat a kéréseket amik azon hosztok irányába mennek amik rajta vannak a feketelistás szűrők listáin. Ez a blokkolás egy átirányítással valósul meg, a reklámot adó weblap IP címe egy lokális címre (127.0.0.1) lesz feloldva a telefon által, ahol nincs futó webszolgáltatás, emiatt semmi sem jelenik meg. Ezzel a Blokada mind a mobiladatodat, mind az akkumulátorodat kíméli. A szűrők automatikusan frissülnek és olyan hosztokat tartalmaznak amikről köztudott, hogy reklámokat, nyomkövetőket, spam-et, malware-t és egyéb nem kívánatos vagy veszélyes tartalmakat szolgáltatnak. A Blokada beállítható, hogy használja a saját fehérlistázott szűrőidet és alkalmazásaidat, ezzel biztosítva, hogy a szolgáltatás amit használni szeretnél nincs megakadályozva és nem tapasztalsz zavart annak működésben.</p>
+
+<h4><a name="vpn">Tudok másik VPN-t használni ha a Blokada be van kapcsolva?</a></h4>
+<p>Sajnos nem. Csak egy aktív VPN kapcsolatod lehet egyszerre, ha egy másik szolgáltatáshoz csatlakozol a Blokada leáll.</p>
+
+<h4><a name="options">Milyen lehetőségek vannak a Blokada-ban?</a></h4>
+<p>A következő lehetőségek érhetőek el a Blokada-ban:</p>
+<p></p><ul>
+    <li><b>Feketelista</b>: hoszt fájlok listája ami a blokkolandó hosztokat tartalmazza. Vedd figyelembe, hogy több lista használata hatással lehet a hálózat és a rendszer sebességére.</li>
+    <li><b>Fehérlista</b>: itt tudod megadni, hogy melyik hosztok ne legyenek blokkolva vagy melyik alkalmazásokban nem fog a Blokada URL-eket szűrni. Blokada már telepítéskor is tartalmaz pár fehérlistázott alkalmazást.</li>
+    <li><b>Életben tart</b>: ez a lehetőség biztosítja, hogy a Blokada nem lesz szüneteltetve vagy megállítva a rendszer álltal. Vedd figyelembe, hogy ezt a rendszered felülbírálhatja, bizonyosodj meg róla, hogy a beállításaid lehetővé teszik, hogy a Blokada fusson a háttérben.</li>
+    <li><b>Értesítések</b>: ha be van kapcsolva értesítést fogsz kapni ha egy reklám blokkolva lett.</li>
+    <li><b>Csak online</b>: ha be van kapcsolva, a Blokada leáll ha nincs aktív internetkapcsolat és elindul ha a kapcsolat újból felépül. Ha ki van kapcsolva, a Blokada mindig futni fog a háttérben (akkor is ha nincs elérhető hálózat). Vedd figyelembe, hogy ez nem biztos, hogy minden készüléken működik.</li>
+    <li><b>Bootoláskor indul</b>: ha be van kapcsolva, a Blokada indulni fog mikor a rendszer betölt. Vedd figyelembe, hogy erre lehetnek rendszer szintű beállítások, emiatt nem tudjuk garantálni, hogy a Blokada elindul betöltéskor. Ebben az esetben nézd meg a telefonod beállításait.</li>
+</ul>
+
+<h4><a name="ads">Mit tehetek ha még mindig látok néhány reklámot?</a></h4>
+<p>Néhány reklám minden reklámszőrűn átjut Androidon. A YouTube vagy teljes képernyős felugró reklámok blokkolása különösen nehéz. Ha úgy gondolod, hogy több reklám jut át a szürőn mint előtte, ezeket a lépéseket próbáld ki:</p>
+<p></p><ul>
+    <li>Nézd meg, hogy a VPN kulcs megtalálható a képernyő tetején, az állapotsorban. Ha nem, indítsd el a Blokada-t.</li>
+    <li>Nyisd meg a Blokada-t és győződj meg róla, hogy aktív és nincsenek hibajelentések.</li>
+    <li>Nézd meg, hogy a hoszt számláló nincs-e nullán. Ha igen, válassz ki néhány feketelista szűrőt, hogy reklámokat blokkolj. Ha ennek ellenére még mindig nullán van a számláló, jelezd a hibát.</li>
+    <li>Bizonyosodj meg róla, hogy nincs túl sok alkalmazás a fehérlistán - talán emiatt látsz reklámokat.</li>
+    <li>Próbáld visszaállítani a szűrőidet (menj a Feketelista képernyőre és válaszd a "Gyári beállítások visszaállítása" lehetőséget felül a Gyorsbeállítások menüben.</li>
+    <li>Ha a böngészőben látsz reklámokat, deaktiválj minden adat tömörítőt vagy forgalom optimalizálót a böngésző beállításaiban.</li>
+    <li>Deaktiváld a Blokada-t, zárd be (a Legutóbbi képernyőn való oldalra csúsztatással) és kapcsold be újra.</li>
+    <li>Ha épp megváltoztattad a beállításaidat (szűrők, fehérlista, stb), emlékezz, hogy időt igényel, hogy az új konfiguráció működésbe lépjen. Adj neki egy kis időt.</li>
+    <li>Töröld a Blokada alkalmazás adatait (a rendszer beállításainál), vagy telepítsd újra.</li>
+    <li>Indítsd újra a készüléket.</li>
+    <li>A készüléked talán nem támogatott. Nézd meg az <a href="https://github.com/blokadaorg/devices/issues">Eszköz adatbázis</a>t.</li>
+    <li>Ha ezek közül a lépések közül egyik sem segített, kérlek jelentsd a hibát (lásd lejjebb)!</li>
+</ul>
+
+<h4><a name="kill">Mit tehetek ha a Blokada működése megáll egy idő után?</a></h4>
+<p></p><ul>
+    <li>Kapcsold be az "Életben tart" funkciót a Blokada-ban.</li>
+    <li>Menj a rendszer beállításaihoz és kapcsolj ki minden akkumulátor optimalizációt a Blokada-ra.</li>
+    <li>Ha használsz memória tisztítót vagy ehhez hasonló alkalmazást, bizonyosodj meg róla, hogy a Blokada a kivétellistán van.</li>
+    <li>A készüléked talán nem támogatott. Nézd meg az <a href="https://github.com/blokadaorg/devices/issues">Eszköz adatbázis</a>t.</li>
+    <li>Ha ezek közül a lépések közül egyik sem segített, kérlek jelentsd a hibát (lásd lejjebb)!</li>
+</ul>
+
+<h4><a name="unsupported">Problémába futottam a Blokada indulásakor, mit tehetek?</a></h4>
+<p></p><ul>
+    <li>Indítsd újra a készüléket.</li>
+    <li>Töröld le a Blokada-t és telepítsd újra.</li>
+    <li>A készüléked talán nem támogatott. Nézd meg az <a href="https://github.com/blokadaorg/devices/issues">Eszköz adatbázis</a>t.</li>
+    <li>Ha ezek közül a lépések közül egyik sem segített, kérlek jelentsd a hibát (lásd lejjebb)!</li>
+</ul>
+
+<h4><a name="update">Nem tudok egy frissítést telepíteni, mit tehetek?</a></h4>
+<p></p><ul>
+    <li>Indítsd újra a készüléket.</li>
+    <li>Töröld le a Blokada-t és telepítsd újra.</li>
+    <li>A készüléked talán nem támogatott. Nézd meg az <a href="https://github.com/blokadaorg/devices/issues">Eszköz adatbázis</a>t.</li>
+    <li>Ha ezek közül a lépések közül egyik sem segített, kérlek jelentsd a hibát (lásd lejjebb)!</li>
+</ul>
+
+<h4><a name="notification">El tudom rejteni a VPN értesítést?</a></h4>
+<p>Sajnos nem. Néhány eszköz egy zavaró VPN értesítést mutat amíg a VPN aktív és ezt nem lehet eltüntetni. Ha lehetőséged van rá, próbálj rendszerfrissítéseket keresni az eszközödre mert az újabb Android verziókban már nem jelentkezik ez a probléma.</p>
+
+<h4><a name="bug">Hogyan tudok egy problémát jelenteni, ötletet vagy javaslatot küldeni?</a></h4>
+<p>Ha problémát tapasztalsz, csak válaszd a <b>Visszajelzés</b> lehetőséged a jobb felső sarokban lévő menüből és kövesd az utasításokat. Kérlek minnél több információt és lépést adj meg, hogy ugyanazt a hibát reprodukálni tudjuk - ez nagyban segít kijavítani a problémádat! Ha hozzáértő felhasználó vagy, mehetsz egyenesen a GitHub hibakövető oldalra is.</p>
+
+<h4><a name="private">Láthatja a Blokada a privát adataimat?</a></h4>
+<p>Nem. A Blokada nem olvassa vagy másítja meg a privát információidat, a Blokada csak monitorozza melyik hosztokat akarja elérni a készüléked és blokkolja azokat amelyek egyeznek a szűrőn lévőkkel. Minden alkalommal mikor a Blokada blokkol valamit egy értesítést fogsz látni (amit ki tudsz kapcsolni). A Blokada-nak nincs hozzáférése a titkosított adatforgalomhoz.</p>
+
+<h4><a name="battery">Nagyon akkumulátorigényes a Blokada?</a></h4>
+<p>Nem. A beállításaidtól függően az akkumulátorra gyakorolt hatás minimális és a legtöbb új eszközön, legfőképpen Marshmallow (Android 6) vagy újabb rendszeren, nem fogsz akkumulátorhasználatot észlelni. Ugyanakkor néhány kevésbé szerencsés eszközön gyorsabb töktéscsökkenést tapasztalhatsz. Nézd meg az  <a href="https://github.com/blokadaorg/devices/issues">Eszköz adatbázis</a>t a részletekért.</p>
+
+<h4><a name="speed">Le fogja lassítani a Blokada az készülékemet?</a></h4>
+<p>Nem. Beállításoktól függően a Blokada nagyon hatékony tud lenni. Sőt, az eszközöd teljesítménye és akkumulátor ideje látványosan nőhet mert a Blokada megkíméli a telefont a reklámtartalmak letöltésétől és feldolgozásától ami neked nem kell vagy Téged nem érdekel. Ugyanakkor a régebbi eszközöket használók tapasztalhatnak teljesítménycsökkenést. Nézd meg az  <a href="https://github.com/blokadaorg/devices/issues">Eszköz adatbázis</a>t a részletekért.</p>
+
+<h4><a name="free">Tényleg ingyenes a Blokada használata?</a></h4>
+<p>Igen! A Blokada egy hobby-projektnek indult, és még ma is többnyire én fejlesztem. Én így adok vissza a közösségnek. A Blokada teljesen nyílt forráskódú és örökké ingyenes marad. A fejlesztés sok időt igényel, ha megteheted kérlek fontold meg, hogy támogatod a projektet bármilyen módon ahogy tudod (lásd lejjebb).</p>
+
+<h4><a name="contribute">A Blokada nagyszerű, hogyan tudom segíteni a projektet?</a></h4>
+<p>Sok lehetőség van a Blokada támogatására, anyagilag és máshogy is. A segítség minden formája nagyon fontos a projekt életben tartására. <a href="contribute.html">További információkért kérlek látogasd meg ezt az oldalt</a></p>
+
+<h4><a name="other">Van egy további kérdésem, hol tudom feltenni?</a></h4>
+<p>Ha a kérdésed nincs itt megválaszolva, kérlek használd a Visszajelzés lehetőséged a felső menüben. Ha technikaibb kérdésed van, kérlek menj egyenesen a GitHub oldalunkra.</p>
+        </section>
+    </div>
+</div>
+
+</body>
+</html>

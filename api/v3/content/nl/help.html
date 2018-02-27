@@ -1,1 +1,127 @@
-../root/help.html
+<!DOCTYPE html>
+<html class="no-js">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1" />
+
+<link rel="stylesheet" href="css/poole.css" />
+<link rel="stylesheet" href="css/syntax.css" />
+<link rel="stylesheet" href="css/hyde.css" />
+<link rel="stylesheet" href="css/theme.css" />
+<link rel="stylesheet" href="//fonts.googleapis.com/css?family=PT+Sans:400,700|Russo+One" />
+<link rel="stylesheet" href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" />
+
+</head>
+<body class="theme-base-theme1 layout-reverse">
+
+<div class="content">
+    <div class="container">
+        <section id="main">
+
+<h3>Snelle start</h3>
+<ol>
+  <li><a href="#howitworks">Hoe werkt Blokada?</a></li>
+  <li><a href="#vpn">Kan ik een andere VPN gebruiken wanneer Blokada actief is?</a></li>
+  <li><a href="#options">Wat zijn de mogelijkheden in Blokada?</a></li>
+  <li><a href="#ads">Wat kan ik doen als ik nog steeds advertenties zie?</a></li>
+  <li><a href="#kill">Wat kan ik doen als Blokada uit zichzelf stopt na verloop van tijd?</a></li>
+  <li><a href="#unsupported">Ik heb problemen met het starten van Blokada, wat kan ik doen?</a></li>
+  <li><a href="#update">Ik kan geen updates installeren, wat kan ik doen?</a></li>
+  <li><a href="#notification">Kan ik het VPN icoon verbergen?</a></li>
+  <li><a href="#bug">Hoe rapporteer ik een probleem, een idee of een suggestie?</a></li>
+  <li><a href="#private">Kan Blokada mijn prive data inzien?</a></li>
+  <li><a href="#battery">Gebruikt Blokada veel van de batterij?</a></li>
+  <li><a href="#speed">Heeft Blokada invloed op de prestaties van mijn apparaat?</a></li>
+  <li><a href="#free">Is Blokada echt gratis te gebruiken?</a></li>
+  <li><a href="#contribute">Blokada is geweldig, hoe kan ik het project ondersteunen?</a></li>
+  <li><a href="#other">Ik heb een andere vraag, waar kan ik deze stellen?</a></li>
+</ol>
+
+<h4><a name="howitworks">Hoe werkt Blokada?</a></h4>
+<p>Blokada is een dun laagje tussen netwerk verbinding (wifi of mobiel) en de app(s) die je gebruikt. Om uitgaand verkeer te kunnen filteren genereerd Blokada een VPN verbinding en blokkeert zo op een simpele manier de verzoeken aan de hosts die beschreven worden in de zwarte lijst. Dit blokkeren wordt gedaan doormiddel van omleidingen, het IP adres van de website die de advertenties serveert zal omgeleid worden via de telefoon naar een lokaal IP adres (127.0.0.1), waar geen webservice draait en daarom zal er niets getoond worden. Hiermee zal Blokada voor een besparing zorgen op het verbruik van je data en batterij. De filters worden automatisch ge-updated en bevatten hosts die bekend staan om het serveren van advertenties, tracking, spam, malware en andere ongewilde en gevaarlijke inhoud. Je kunt Blokada instellen met je eigen lijsten en een witte lijst aanmaken om ervoor te zorgen dat de services die je wel wilt gebruiken niet geblokkeerd worden en werken zoals jij dat verwacht.</p>
+
+<h4><a name="vpn">Kan ik een andere VPN gebruiken als Blokada is ingeschakeld?</a></h4>
+<p>Helaas niet. Je kan slechts één actieve VPN verbinding per keer gebruiken. Als je een andere VPN verbinding opzet zal Blokada uitschakelen.</p>
+
+<h4><a name="options">Wat zijn de opties in Blokada?</a></h4>
+<p>De volgende opties zijn beschikbaar in Blokada:</p>
+<p></p><ul>
+    <li><b>Zwarte lijst</b>: Lijsten van host bestanden welke de hosts bevatten die geblokkeerd moeten worden. Houd er aub rekening mee dat bij het gebruik van meerdere lijsten er een effect kan zijn op het netwerk en de systeem snelheid.</li>
+    <li><b>Witte lijst</b>: Hier kan je aangeven welke hosts niet geblokkeerd moeten worden of apps waarvan Blokada de URL's niet zal filteren. Bij de installatie van Blokada zullen bepaalde apps standaard op de witte lijst staan.</li>
+    <li><b>Levend houden</b>: Deze optie is ervoor om te zorgen dat Blokada niet gepauzeerd of gestopt wordt door het systeem. Houd er aub rekening mee dat je systeem dit kan overschrijven, zorg er dus voor dat je instellingen Blokada toestaan in de achtergrond te draaien.</li>
+    <li><b>Notificaties</b>: Wanneer ingeschakeld zul je een melding ontvangen als er een advertentie geblokkeerd wordt.</li>
+    <li><b>Alleen online</b>: Wanneer ingeschakeld zal Blokada uitschakelen als er geen actieve internetverbinding is en weer opstarten als er wel weer een internetverbinding is. Wanneer uitgeschakeld zal Blokada altijd in de achtergrond draaien (zelfs als er geen internetverbinding is). Houd er aub rekening mee dat deze optie mogelijk niet op ieder apparaat zal werken.</li>
+    <li><b>Start bij opstarten</b>: Wanneer ingeschakeld zal Blokada starten wanneer het systeem is opgestart. Houd er aub rekening dat dit deels wordt bepaald door je systeem en daardoor kan Blokada niet garanderen dat het ook echt werkt. Werkt het niet, check dan de instellingen van je telefoon.</li>
+</ul>
+
+<h4><a name="ads">Wat kan ik doen als ik nog steeds advertenties zie?</a></h4>
+<p>Sommige advertenties zullen, ongeachte welke adblocker je ook gebruikt, doorgelaten worden op Android. Met name advertenties op YouTube of sommige volledige scherm popup advertenties zijn erg moeilijk te blokkeren. Als je denkt dat je toch meer advertenties te zien krijgt als eerder, probeer dan de volgende stappen:</p>
+<p></p><ul>
+    <li>Controleer of het VPN sleutel icoon aanwezig is in de statusbalk boven aan het scherm. Zo niet, start dan Blokada.</li>
+    <li>Open Blokada en controleer of deze actief is en geen fouten meldt.</li>
+    <li>Controleer of de hosts teller niet gelijk is aan nul. Als dit het geval is, selecteer dan een of meerdere zwarte lijst filters, zodat advertenties geblokkeerd kunnen worden. mocht de teller nog steeds op nul staan rapporteer dan een fout.</li>
+    <li>Zorg ervoor dat je niet teveel apps op de witte lijst hebt staan, misschien is dit de reden dat je veel advertenties ziet.</li>
+    <li>Probeer je filters te resetten (ga naar het Zwarte lijst scherm en kies "Herstel Standaarden" in het Snelle acties menu bovenaan het scherm).</li>
+    <li>Als je advertenties in je browser ziet, schakel dan elke vorm van datacompressie of -optimalisatie uit in de instellingen van je browser.</li>
+    <li>Deactiveer Blokada, sluit het helemaal af (verwijder Blokada uit je Recente apps overzicht) en start het opnieuw op.</li>
+    <li>Als je recentelijk je instellingen (filters, witte lijst, enz) hebt aangepast houd er dan rekening mee dat het even kan duren voor deze instellingen goed werken. Geef het even de tijd.</li>
+    <li>Verwijder de app data van Blokada (in je systeem instellingen) of herinstalleer de app.</li>
+    <li>Herstart je apparaat.</li>
+    <li>Je apparaat wordt mogelijk niet ondersteunt. Controleer aub <a href="https://github.com/blokadaorg/devices/issues">Apparaat Database</a>.</li>
+    <li>Als geen van deze stappen heeft geholpen, rapporteer dan een bug (zie hieronder).</li>
+</ul>
+
+<h4><a name="kill">Wat kan ik doen als Blokada stopt na verloop van tijd?</a></h4>
+<p></p><ul>
+    <li>Schakel "Houd levend" in in Blokada</li>
+    <li>Go to system settings and disable any kind of battery optimisation for Blokada.</li>
+    <li>If you are using memory cleaners, or any other apps of this sort, make sure Blokada is whitelisted.</li>
+    <li>Je apparaat wordt mogelijk niet ondersteunt. Controleer aub <a href="https://github.com/blokadaorg/devices/issues">Apparaat Database</a>.</li>
+    <li>Als geen van deze stappen heeft geholpen, rapporteer dan een bug (zie hieronder).</li>
+</ul>
+
+<h4><a name="unsupported">Ik heb problemen om Blokada the starten, wat kan ik doen?</a></h4>
+<p></p><ul>
+    <li>Herstart je apparaat.</li>
+    <li>Verwijder Blokada en installeer het opnieuw.</li>
+    <li>Je apparaat wordt mogelijk niet ondersteunt. Controleer aub <a href="https://github.com/blokadaorg/devices/issues">Apparaat Database</a>.</li>
+    <li>Als geen van deze stappen heeft geholpen, rapporteer dan een bug (zie hieronder).</li>
+</ul>
+
+<h4><a name="update">Ik kan een update niet installeren, wat kan ik doen?</a></h4>
+<p></p><ul>
+    <li>Herstart je apparaat.</li>
+    <li>Verwijder Blokada en installeer het opnieuw.</li>
+    <li>Je apparaat wordt mogelijk niet ondersteunt. Controleer aub <a href="https://github.com/blokadaorg/devices/issues">Apparaat Database</a>.</li>
+    <li>Als geen van deze stappen heeft geholpen, rapporteer dan een bug (zie hieronder).</li>
+</ul>
+
+<h4><a name="notification">Kan ik de VPN melding verbergen?</a></h4>
+<p>Unfortunately no. Some devices may be displaying annoying VPN notification while VPN is active, and it is not possible to hide it. If you can, try updating your device, since newer Android versions do not have this problem.</p>
+
+<h4><a name="bug">How do I report a problem, idea or suggestion?</a></h4>
+<p>If you are experiencing problems, just choose the <b>Feedback</b> option from the menu in top right corner and follow the instructions. Please provide as much information as you can and steps to reproduce the same issue - it helps greatly in fixing your problem! If you are a pro user, you can go directly to the issue tracker at Github.</p>
+
+<h4><a name="private">Kan Blokada mijn privé gegevens zien?</a></h4>
+<p>No. Blokada does not read or tamper with your private information. Blokada only monitors which hosts your device is making requests towards and blocks the ones matching the filters. Every time Blokada blocks anything, you will see a notification (which you can turn off). Blokada has no access to your encrypted trafic.</p>
+
+<h4><a name="battery">Does Blokada use a lot of battery?</a></h4>
+<p>No. Depending on your settings the battery impact is minimal, and on most new devices, especially on Marshmallow (Android 6) or newer, you will not notice any battery drain. However, some unlucky devices may experience increased battery drain. Refer to the <a href="https://github.com/blokadaorg/devices/issues">Devices Database</a> for details.</p>
+
+<h4><a name="speed">Will Blokada slow down my device?</a></h4>
+<p>No. Depending on your settings Blokada can be quite efficient. In fact, both your device's performance and battery life may visibly improve, because Blokada saves your device from downloading and processing content you don't need or care about. However, users with some older devices may experience performance drop. Refer to the <a href="https://github.com/blokadaorg/devices/issues">Devices Database</a> for details.</p>
+
+<h4><a name="free">Is Blokada really free to use?</a></h4>
+<p>Yes! Blokada started as my hobby project, is still mostly developed by me. It's my way of giving back to the community. Blokada is fully open source and it will stay free forever. That said, developing it takes a lot of time, so please consider supporting the project in any way you can (see below).</p>
+
+<h4><a name="contribute">Blokada is great, how can I help the project?</a></h4>
+<p>There are many ways to support Blokada, financially or else. All means of help are very important for the project to exist. <a href="contribute.html">Please go to this page for more information</a>.</p>
+
+<h4><a name="other">I have another question, where can I ask it?</a></h4>
+<p>If your question is not answered here, please use the Feedback option from the top menu. If you have a more technical question, please go directly to the tracker at GitHub.</p>
+        </section>
+    </div>
+</div>
+
+</body>
+</html>

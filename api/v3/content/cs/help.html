@@ -1,1 +1,127 @@
-../root/help.html
+<!DOCTYPE html>
+<html class="no-js">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1" />
+
+<link rel="stylesheet" href="css/poole.css" />
+<link rel="stylesheet" href="css/syntax.css" />
+<link rel="stylesheet" href="css/hyde.css" />
+<link rel="stylesheet" href="css/theme.css" />
+<link rel="stylesheet" href="//fonts.googleapis.com/css?family=PT+Sans:400,700|Russo+One" />
+<link rel="stylesheet" href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" />
+
+</head>
+<body class="theme-base-theme1 layout-reverse">
+
+<div class="content">
+    <div class="container">
+        <section id="main">
+
+<h3>Rychlý start</h3>
+<ol>
+  <li><a href="#howitworks">Jak soubor Blokada pracuje?</a></li>
+  <li><a href="#vpn">Mohu používat jinou síť VPN, zatímco je Blokada zapnutá?</a></li>
+  <li><a href="#options">Jaké jsou možnosti v Blokadě?</a></li>
+  <li><a href="#ads">Co můžu dělat,pokud se stále zobrazuji nějaké reklamy?</a></li>
+  <li><a href="#kill">Co mohu dělat, když Blokada přestane fungovat po nějaké době?</a></li>
+  <li><a href="#unsupported">Mám problémy s rozjetím Blokady, co mám dělat?</a></li>
+  <li><a href="#update">Nemohu nainstalovat aktualizaci, co mám dělat?</a></li>
+  <li><a href="#notification">Můžu skrýt oznámení VPN?</a></li>
+  <li><a href="#bug">Jak nahlásím problém, nápad nebo návrh?</a></li>
+  <li><a href="#private">Může Blokada vidět moje soukromá data?</a></li>
+  <li><a href="#battery">Používá Blokada hodně baterie?</a></li>
+  <li><a href="#speed">Bude Blokada zpomalovat mé zařízení?</a></li>
+  <li><a href="#free">Je Blokada opravdu volně použitelná?</a></li>
+  <li><a href="#contribute">Blokada je skvělá, jak mohu pomoci projektu?</a></li>
+  <li><a href="#other">Mám dotaz, kde se mohu zeptat?</a></li>
+</ol>
+
+<h4><a name="howitworks">Jak soubor Blokada pracuje?</a></h4>
+<p>Blokada je tenká vrstva mezi síťovým rozhraním (wifi nebo mobilní sítí) telefonu a aplikací, kterou používáte. Chcete-li filtrovat každý odchozí provoz, generujte připojení VPN a jednoduše blokujte požadavky na hostitele definované ve filtrech černé listiny. Toto zablokování se provádí přesměrováním, IP adresy webové stránky, která tuto reklamu obsahuje, bude čtena telefonem na místní adrese IP (127.0.0.1), kde není spuštěna žádná webová služba, a proto se nic nezobrazí. Díky tomu Blokada ukládá váš datový plán i životnost baterie. Filtry se automaticky aktualizují a obsahují hostitele známé pro zobrazování reklam, sledování, spamu, malwaru a dalším nežádoucím nebo nebezpečným obsahům.</p>
+
+<h4><a name="vpn">Mohu používat jinou síť VPN, zatímco je Blokada zapnutá?</a></h4>
+<p>Bohužel ne. Můžete mít pouze jedno aktivní připojení VPN najednou, pokud se připojíte k jiné službě, Blokada ji opustí.</p>
+
+<h4><a name="options">Jaké jsou možnosti v Blokadě?</a></h4>
+<p>V Blokadě jsou k dispozici následující možnosti:</p>
+<p></p><ul>
+    <li><b>černá listina</b>: seznamy hostitelských souborů obsahujících bloky hostitelů. Upozorňujeme, že použití více seznamů může mít vliv na rychlost sítě a systému.</li>
+    <li><b>bílá listina</b>: zde můžete definovat hostitele, které by neměly být blokovány, nebo aplikace, kde Blokada nebude filtrovat adresy URL. Blokada je ve výchozím nastavení nainstalována s několika aplikacemi s povoleným obsahem.</li>
+    <li><b>zůstat naživu</b>: tato možnost má zajistit, aby systém Blokada nebyl pozastaven nebo zastaven. Mějte na paměti, že váš systém může toto přepsat, ujistěte se, že vaše nastavení umožní, aby Blokada běžela na pozadí.</li>
+    <li><b>oznámení</b>:  pokud je tato funkce povolena, budete upozorněni na zablokování reklamy.</li>
+    <li><b>pouze online </b>: pokud je povoleno, Blokada se ukončí, pokud není aktivní připojení, a znovu se spustí vždy, když se vrátí zpět. Pokud je blokováno, aplikace Blokada bude vždy pracovat na pozadí (i když není k dispozici žádná síť). Upozorňujeme, že tato možnost nemusí fungovat na všech zařízeních.</li>
+    <li><b>spustit při zavádění</b>: pokud je povoleno, Blokada se spustí po spuštění systému. Vezměte prosím na vědomí, že pro tuto volbu existují konfigurace na úrovni systému, a proto nelze zaručit, že Blokada může být spuštěna při zavádění. V takovém případě zkontrolujte nastavení telefonu</li>
+</ul>
+
+<h4><a name="ads">Co můžu dělat, když se stále zobrazuji nějaké reklamy?</a></h4>
+<p>Některé reklamy přicházejí s libovolným blokem reklam pro Android. Zejména je obtížné zablokovat reklamy YouTube nebo některé reklamy na ploše. Pokud si myslíte, že máte více reklam než dříve, vyzkoušejte tyto kroky:</p>
+<p></p><ul>
+    <li>Zkontrolujte, zda je ve stavovém řádku v horní části ikona klíče VPN. Pokud ne, spusťte Blokadu.</li>
+    <li>Otevřete Blokadu a zkontrolujte, zda je aktivní a nehlásí žádné chyby.</li>
+    <li>Zkontrolujte, zda čítač hostitelů není rovný nule. Pokud ano, vyberte některé filtry černé listiny, aby mohly být blokovány. Pokud je počitadlo stále nulové, nahláste chybu.</li>
+    <li>Ujistěte se, že nemáte příliš mnoho aplikací v seznamu povolených položek - možná to je důvod, proč se zobrazují reklamy.</li>
+    <li>Zkuste vynulovat filtry (přejděte na obrazovku černé listiny a v nabídce Rychlé akce v horní části vyberte "Obnovit výchozí hodnoty").</li>
+    <li>Pokud se ve vašem prohlížeči zobrazují reklamy, v nastavení prohlížeče,musí být neaktivní jakákoli komprese nebo optimalizace provozu.</li>
+    <li>Deaktivujte Blokadu, zavřete ji (vyklopením z obrazovky Recads) a opět ji zapněte.</li>
+    <li>Pokud jste nedávno změnili nastavení (filtry, seznam povolených čísel atd.), Nezapomeňte, že trvá určitou dobu, než začne nová konfigurace fungovat. Dejte jí nějaký čas.</li>
+    <li>Vymažte data aplikace Blokada (v systémových nastaveních) nebo ji znovu nainstalujte.</li>
+    <li>Restartujte zařízení.</li>
+    <li>Vaše zařízení nemusí být podporováno.Zkontrolujte <a href="https://github.com/blokadaorg/devices/issues">Devices Database</a>.</li>
+    <li>Pokud žádný z těchto kroků nepomohl, nahláste chybu (viz níže).</li>
+</ul>
+
+<h4><a name="kill">Co mohu dělat, když přestane pracovat Blokada po nějaké době?</a></h4>
+<p></p><ul>
+    <li>Zapněte funkci "zůstat naživu" v Blokadě.</li>
+    <li>Projděte nastavení systému a deaktivujte libovolnou optimalizaci baterie pro Blokadu.</li>
+    <li>Pokud používáte čističe pamětí nebo jiné aplikace tohoto typu, ujistěte se, že Blokada je na seznamu povolených.</li>
+    <li>Vaše zařízení nemusí být podporováno.Zkontrolujte <a href="https://github.com/blokadaorg/devices/issues">Devices Database</a>.</li>
+    <li>Pokud žádný z těchto kroků nepomohl, nahláste chybu (viz níže).</li>
+</ul>
+
+<h4><a name="unsupported">Mám problémy s rozjetím Blokady, co mám dělat?</a></h4>
+<p></p><ul>
+    <li>Restartujte zařízení.</li>
+    <li>Blokadu odinstalujte a znovu jí nainstalujte.</li>
+    <li>Vaše zařízení nemusí být podporováno.Zkontrolujte <a href="https://github.com/blokadaorg/devices/issues">Devices Database</a>.</li>
+    <li>Pokud žádný z těchto kroků nepomohl, nahláste chybu (viz níže).</li>
+</ul>
+
+<h4><a name="update">Nemohu nainstalovat aktualizaci, co mám dělat?</a></h4>
+<p></p><ul>
+    <li>Restartujte zařízení.</li>
+    <li>Blokadu odinstalujte a znovu jí nainstalujte.</li>
+    <li>Vaše zařízení nemusí být podporováno.Zkontrolujte <a href="https://github.com/blokadaorg/devices/issues">Devices Database</a>.</li>
+    <li>Pokud žádný z těchto kroků nepomohl, nahláste chybu (viz níže).</li>
+</ul>
+
+<h4><a name="notification">Mohu skrýt oznámení VPN?</a></h4>
+<p>Bohužel ne. Některá zařízení mohou zobrazovat obtěžující oznámení o VPN, pokud je VPN aktivní, a nelze je skrýt. Pokud se vám to nepodaří, zkuste aktualizovat zařízení, protože novější verze systému Android tento problém nemají.</p>
+
+<h4><a name="bug">Jak nahlásím problém, nápad nebo návrh?</a></h4>
+<p>Pokud máte problémy, stačí zvolit možnost <b>zpětná vazba</b> z nabídky v pravém horním rohu a postupovat podle pokynů. Uveďte prosím co nejvíce informací a kroky k reprodukci problému - velmi pomáhá při řešení problému! Pokud jste profesionální uživatel, můžete jít přímo na nástroj sledování problémů v Githubu.</p>
+
+<h4><a name="private">Může Blokada vidět moje soukromá data?</a></h4>
+<p>Ne. Blokada nečte nebo neupravuje vaše osobní údaje. Blokada monitoruje pouze ty, které hostuje vaše zařízení a které blokuje,ty které vyhovují filtrům. Pokaždé, když blokuje, uvidíte oznámení (které můžete vypnout). Blokada nemá přístup k šifrovanému provozu.</p>
+
+<h4><a name="battery">Používá Blokada hodně baterie?</a></h4>
+<p>Ne. V závislosti na vašich nastaveních je vliv baterie minimální a na většině nových zařízení, zejména na zařízeních s Marshmallow (Android 6) nebo novějším, nezaznamenáte žádný odtok baterie. Některé nešťastné přístroje však mohou zaznamenat zvýšené vybíjení baterie. Další informace naleznete v  <a href="https://github.com/blokadaorg/devices/issues">Databáze zařízení</a> for details.</p>
+
+<h4><a name="speed">Bude Blokada zpomalovat mé zařízení?</a></h4>
+<p>Ne. V závislosti na nastavení Blokady může být docela efektivní. Ve skutečnosti se výkon zařízení i životnost baterie mohou výrazně zlepšit, protože zařízení z Blokady ukládá jen soubory ke stahování a zpracování obsahu,a které pak nejsou staženy. Uživatelé s některými staršími zařízeními však mohou zaznamenat pokles výkonu. Další informace naleznete v  <a href="https://github.com/blokadaorg/devices/issues">Databáze zařízení</a> for details.</p>
+
+<h4><a name="free">Je Blokada opravdu volně použitelná?</a></h4>
+<p>Ano! Blokada začal jako projekt mého hobby, je stále většinou vyvíjen mnou. Je to můj způsob, jak dát vše komunitě zpět. Blokada je plně otevřený zdroj a zůstane zdarma navždy. To znamená, že rozvíjení trvá hodně času, proto prosím zvážit podporu projektu jakýmkoli způsobem (viz níže).</p>
+
+<h4><a name="contribute">Blokada je skvělá, jak mohu pomoci projektu?</a></h4>
+<p>Existuje mnoho způsobů, jak podpořit Blokadu, finančně nebo jinak. Všechny prostředky pomoci jsou pro projekt důležité.. <a href="contribute.html">Další informace naleznete na této stránce</a>.</p>
+
+<h4><a name="other">Mám další otázku, kde se mohu zeptat?</a></h4>
+<p>Pokud zde není zodpovězena vaše otázka, použijte v horní nabídce možnost Zpětná vazba. Pokud máte techničtější otázku, přejděte prosím přímo na trackeru na adrese GitHub.</p>
+        </section>
+    </div>
+</div>
+
+</body>
+</html>
