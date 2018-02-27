@@ -1,5 +1,5 @@
 https://blokada.org/api/v3/content
-en es pl
+en cs de es fr hu it ms nl pl ru zh_TW
 30
 3.0.0-preview
 http://go.blokada.org/apk
