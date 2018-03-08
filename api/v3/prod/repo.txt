@@ -1,5 +1,1 @@
-https://blokada.org/api/v3/content
-en cs de es fr hu it ms nl pl ru zh_TW hr tr pt_BR pt_PT in
-32
-3.0.0
-http://go.blokada.org/apk3
+../repo-noupdate.txt
