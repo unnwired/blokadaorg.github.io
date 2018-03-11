@@ -6,76 +6,83 @@ ipv4
 https://www.comodo.com/secure-dns/
 
 1
+dnswatch
+inactive
+ipv4
+84.200.69.80;84.200.70.40
+https://dns.watch/
+
+2
 freedns
 inactive
 ipv4
 37.235.1.174;37.235.1.177
 https://freedns.zone/en/
 
-2
+3
 google
 inactive
 ipv4
 8.8.8.8;8.8.4.4
 https://developers.google.com/speed/public-dns/
 
-3
+4
 norton
 inactive
 ipv4
 199.85.126.10;199.85.127.10
 https://developers.google.com/speed/public-dns/
 
-4
+5
 norton_porn
 inactive
 ipv4
 199.85.126.20;199.85.127.20
 https://developers.google.com/speed/public-dns/
 
-5
+6
 norton_porn_other
 inactive
 ipv4
 199.85.126.30;199.85.127.30
 https://developers.google.com/speed/public-dns/
 
-6
+7
 opendns
 inactive
 ipv4
 208.67.222.222;208.67.220.220
 https://www.opendns.com/
 
-7
+8
 quad9
 inactive
 ipv4
 9.9.9.9;149.112.112.112
 https://www.quad9.net/
 
-8
+9
 verisign
 inactive
 ipv4
 64.6.64.6;64.6.65.6
 https://www.verisign.com/en_US/security-services/public-dns/index.xhtml
 
-9
+10
 yandex
 inactive
 ipv4
 77.88.8.8;77.88.8.1
 https://dns.yandex.com/advanced/
 
-10
+11
 yandex_safe
 inactive
 ipv4
 77.88.8.88;77.88.8.2
 https://dns.yandex.com/advanced/
 
-11
+12
 yandex_family
 inactive
 ipv4
