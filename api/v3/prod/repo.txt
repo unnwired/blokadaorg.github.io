@@ -1,1 +1,1 @@
-../repo-noupdate.txt
+../canonical/repo/noupdate_all_languages.txt
