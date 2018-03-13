@@ -1,6 +1,6 @@
 0
 adguard
-active
+inactive
 ipv4
 176.103.130.130;176.103.130.131
 https://adguard.com/en/adguard-dns/overview.html
@@ -32,6 +32,13 @@ inactive
 ipv4
 37.235.1.174;37.235.1.177
 https://freedns.zone/en/
+
+45
+fooldns
+inactive
+ipv4
+87.118.111.215;213.187.11.62
+http://www.fooldns.com/fooldns-community/english-version/
 
 50
 google
