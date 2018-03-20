@@ -1,5 +1,0 @@
-99
-9.9
-http://blokada.org/app-static/dev/update/v1/changelog/99.txt
-http://example.com/not-existing.apk
-https://github.com/blokadaorg/blokada/releases/download/v1.0/blokada-v1.0.apk

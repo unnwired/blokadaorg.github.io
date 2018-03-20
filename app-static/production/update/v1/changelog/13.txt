@@ -1,1 +1,0 @@
-This is a maintenance release that fixes Blokada turning off itself and staying off after connectivity changes.

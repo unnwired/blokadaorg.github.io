@@ -1,6 +1,0 @@
-24
-2.0.4
-http://blokada.org/app-static/production/update/v1/changelog/20.txt
-https://github.com/blokadaorg/blokada/releases/download/v2.0.4/blokada-legacy-v2.0.4.apk
-https://www.dropbox.com/s/erok85t0vsvmshx/blokada-legacy-v2.0.4.apk?dl=1
-http://go.blokada.org/apk2_legacy

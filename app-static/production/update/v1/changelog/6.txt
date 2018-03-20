@@ -1,3 +1,0 @@
-This is a hotfix release that fixes a crash some users experienced with v1.0.<br/><br/>
-
-<b>Some users are experiencing problems installing this update.</b> If so, please go to blokada.org using your browser and download it manually. Sorry for the inconvenience.
