@@ -169,6 +169,15 @@ app
 com.google.android.apps.photos
 
 
+58
+b_app_playgames
+whitelist
+active
+http://blokada.org
+app
+com.google.android.play.games
+
+
 60
 b_app_signal
 whitelist
