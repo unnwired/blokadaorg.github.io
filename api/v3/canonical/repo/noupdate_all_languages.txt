@@ -1,5 +1,5 @@
 https://blokada.org/api/v3/content
-en
+en pl_PL hu_HU ru_RU es_ES hi_IN
 0
 0
 http://localhost
