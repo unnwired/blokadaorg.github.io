@@ -1,5 +1,5 @@
 https://blokada.org/api/v3/content
-en cs de es fr hu it ms nl pl ru zh_TW hr tr pt_BR pt_PT in
+en
 0
 0.0.0
 https://github.com/blokadaorg/blokada/releases/download/3.1.1/blokada-v3.1.1.apk
