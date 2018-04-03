@@ -1,5 +1,5 @@
 https://blokada.org/api/v3/content
 en pl_PL hu_HU ru_RU es_ES hi_IN
-302180330
+302180403
 Beta
 http://go.blokada.org/apk3_beta
