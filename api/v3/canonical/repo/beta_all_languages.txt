@@ -1,5 +1,5 @@
 https://blokada.org/api/v3/content
-en
+en pl_PL
 302180330
 Beta
 http://go.blokada.org/apk3_beta

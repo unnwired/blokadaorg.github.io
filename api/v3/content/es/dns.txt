@@ -1,1 +1,0 @@
-../../canonical/defaults/dns.txt
