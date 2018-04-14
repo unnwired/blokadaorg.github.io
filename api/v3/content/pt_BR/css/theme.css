@@ -80,3 +80,44 @@ body {
   float: right;
   padding: 8px;
 }
+
+table.credits {
+  width: 100%;
+  border: 0;
+  color: #eaeaea;
+}
+
+.credits td {
+  width: 50%;
+  vertical-align: top;
+  padding: 5px 5px 0 15px;
+  border: none;
+}
+
+.credits td.role, .credits td.category {
+  padding: 5px 15px 0 5px;
+  text-align: right;
+}
+
+.credits td.category {
+  font-weight: bold;
+  padding-top: 20px;
+}
+
+.credits td.role {
+}
+
+.credits td.name {
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+.credits tbody tr:nth-child(odd) td {
+  background: none;
+}
+
+.credits-footer {
+  font-size: 0.8em;
+  text-align: center;
+  padding: 80px;
+}
