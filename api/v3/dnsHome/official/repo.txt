@@ -1,1 +1,1 @@
-../../canonical/repo/noupdate_dns_english.txt
+../../canonical/repo/noupdate_dns_all_languages.txt
