@@ -92,9 +92,9 @@ https://raw.githubusercontent.com/StevenBlack/hosts/master/extensions/social/hos
 b_mining
 blacklist
 inactive
-https://github.com/ZeroDot1/CoinBlockerLists
+https://gitlab.com/ZeroDot1/CoinBlockerLists
 link
-https://raw.githubusercontent.com/ZeroDot1/CoinBlockerLists/master/hosts
+https://zerodot1.gitlab.io/CoinBlockerLists/hosts
 
 
 20
