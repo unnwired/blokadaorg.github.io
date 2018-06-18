@@ -24,13 +24,16 @@
 
 <p class="comment">For the roadmap and long term plans, <a href="http://go.blokada.org/boards">tap here</a>.</p>
 
-<h4>Blokada v3.5 (in development)</h4>
+<h4>Blokada v3.5 (in beta)</h4>
 <p>This is a maintenance release with a rewrite of filter handling code for robustness and stability.</p>
 <ul>
   <li>Rewrite of filters code using Kotlin coroutines for more predictable concurrency</li>
   <li>More granular caching (lists are now cached independently for avoiding unnecessary downloads)</li>
   <li>Fix #170 Blacklist can get reset after reboot</li>
   <li>Fix #185 Whitelist ignored in some scenarios</li>
+  <li>Fix #180 Detect freshly installed apps</li>
+  <li>Fix #144 import / export settings to external storage</li>
+  <li>Increase logcat size for better debugging</li>
   <li>Update translations</li>
 </ul>
 
