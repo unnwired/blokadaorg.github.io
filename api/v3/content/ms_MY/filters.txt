@@ -2,9 +2,9 @@
 b_adzhosts
 blacklist
 active
-https://adzhosts.fr
+https://adzhosts.eu
 link
-https://adzhosts.hizo.fr/hosts/adzhosts-android.txt
+https://adzhosts.eu/hosts/adzhosts-android.txt
 
 
 10
