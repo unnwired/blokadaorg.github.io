@@ -54,6 +54,13 @@ ipv4
 8.8.8.8;8.8.4.4
 https://developers.google.com/speed/public-dns/
 
+55
+keweon
+inactive
+ipv4
+176.9.62.58;176.9.62.62
+https://github.com/Magisk-Modules-Repo/Systemless-keweon-DNS-Manager
+
 60
 norton
 inactive
