@@ -61,6 +61,15 @@ link
 https://raw.githubusercontent.com/EnergizedProtection/block/master/spark/formats/hosts
 
 
+18
+b_goodbyeads
+blacklist
+inactive
+https://github.com/jerryn70/GoodbyeAds
+link
+https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt
+
+
 20
 b_hphosts
 blacklist
