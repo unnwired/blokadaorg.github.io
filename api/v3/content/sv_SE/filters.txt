@@ -1,12 +1,3 @@
-8
-b_adzhosts
-blacklist
-active
-https://adzhosts.eu
-link
-https://adzhosts.eu/hosts/adzhosts-android.txt
-
-
 10
 b_unified
 blacklist
@@ -37,7 +28,7 @@ https://raw.githubusercontent.com/EnergizedProtection/block/master/basic/formats
 14
 b_energized_blu
 blacklist
-inactive
+active
 https://github.com/AdroitAdorKhan/Energized
 link
 https://raw.githubusercontent.com/EnergizedProtection/block/master/blu/formats/hosts
