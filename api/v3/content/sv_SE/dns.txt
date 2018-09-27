@@ -61,27 +61,6 @@ ipv4
 176.9.62.58;176.9.62.62
 https://github.com/Magisk-Modules-Repo/Systemless-keweon-DNS-Manager
 
-60
-norton
-inactive
-ipv4
-199.85.126.10;199.85.127.10
-https://developers.google.com/speed/public-dns/
-
-70
-norton_porn
-inactive
-ipv4
-199.85.126.20;199.85.127.20
-https://developers.google.com/speed/public-dns/
-
-80
-norton_porn_other
-inactive
-ipv4
-199.85.126.30;199.85.127.30
-https://developers.google.com/speed/public-dns/
-
 90
 opendns
 inactive
