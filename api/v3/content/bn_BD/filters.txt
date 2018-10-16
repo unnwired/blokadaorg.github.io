@@ -92,7 +92,7 @@ https://adaway.org/hosts.txt
 b_danpollock
 blacklist
 inactive
-http://someonewhocares.org/hosts/
+http://someonewhocares.org/hosts/zero/
 link
 http://someonewhocares.org/hosts/hosts
 
