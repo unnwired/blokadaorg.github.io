@@ -94,7 +94,7 @@ blacklist
 inactive
 https://someonewhocares.org/hosts/zero/
 link
-http://someonewhocares.org/hosts/hosts
+https://someonewhocares.org/hosts/hosts
 
 
 60
